@@ -1,0 +1,47 @@
+body
+{
+background-position: center; 
+background-size: cover;
+}
+
+.heading{
+    width:100%;
+    text-align:left;
+    }
+    
+    .heading h3{
+    display:inline;
+    }
+    
+    .heading button{
+    float:right;
+    border:1px solid white;
+    width:7%;
+    }
+
+
+button{
+width:5%;
+margin-top:10px;
+margin-bottom:3px;
+}
+
+.footer
+{
+background-color:dimgray;
+color:white;
+line-height:2;
+margin-bottom:0px;
+bottom:0px;
+position:sticky;
+}
+
+modal-body{
+text-align:left;
+}
+
+canvas{
+border-radius:5px;
+box-shadow: 3px 3px 3px gray;
+border: 2px solid gray;
+}
